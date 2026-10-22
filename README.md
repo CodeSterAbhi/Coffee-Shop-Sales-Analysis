@@ -4,7 +4,7 @@ An interactive Excel dashboard on revenue, footfall, peak hours and product mix 
 
 **Tools:** Excel · Power Query · Data Model · Pivot Tables · Pivot Charts · Slicers
 
-![Coffee Shop dashboard](images/dashboard.jpeg)
+![Coffee Shop dashboard](DashboardScreenshot.jpeg)
 
 **Quick links:** [Full report (PDF)](Coffee_Shop_Sales_Report.pdf) · [Excel dashboard](Coffee_Shop_Sales_Dashboard.xlsx)
 
